@@ -28,3 +28,7 @@ convert xml file to json file or json file to xml file.
   ```
 
  [0]: http://wbond.net/sublime_packages/package_control
+ 
+ ===
+ 
+ original package dont work in py3, make a fix to compatible py2 and py3.
